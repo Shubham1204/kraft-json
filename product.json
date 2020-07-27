@@ -13,7 +13,9 @@
 
             "Product_expected_delivery_date" : "7",
 
-           
+           "Product_category" : "fancy",
+    "Product_seller_email" : "hshsv@gnail.com",
+    " Product_seller_id" : "67",
             "Product_discount" : "5",
 
             "Product_shipping_cost" : "66",
@@ -39,7 +41,9 @@
 
             "Product_expected_delivery_date" : "7",
 
-           
+           "Product_category" : "fancy",
+    "Product_seller_email" : "hshsv@gnail.com",
+    " Product_seller_id" : "67",
 
             "Product_discount" : "5",
 

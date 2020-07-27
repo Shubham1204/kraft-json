@@ -25,6 +25,34 @@
             "Product_cost" : "12348",
             "status" : "Y"
 
+  },
+        {
+            
+
+            "Product_id" : "525",
+
+            "Product_name" : "gdh su am",
+
+            "Product_type" : "physical",
+
+            "Product_desc" : "pdf hdjbd dudh",
+
+            "Product_expected_delivery_date" : "7",
+
+           
+
+            "Product_discount" : "5",
+
+            "Product_shipping_cost" : "66",
+
+            "Product_return_policy" : "5",
+
+            "Product_status" : "pending",
+
+            "Product_cost" : "12348",
+
+            "status" : "Y"
+
   }
 
     ]

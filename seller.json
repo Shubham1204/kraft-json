@@ -1,0 +1,18 @@
+{
+    "sellers": [
+        {
+            "User_id": "1",
+            "User_name": "cam",
+            "User_email": "ghj@gmail.com",
+            "User_contact": "9876543217",
+            "status": "Y"
+        },
+        {
+            "User_id": "2",
+            "User_name": "rcam",
+            "User_email": "ghj@gmail.com",
+            "User_contact": "9876543217",
+            "status": "Y"
+        }
+    ]
+}

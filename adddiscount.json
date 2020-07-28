@@ -1,0 +1,14 @@
+{
+    "add_discount":
+        {
+            "Discount_name": "cam",
+            "Discount_desc": "pdf hdjbd dudh",
+            "Discount_percentage" : "23",
+            "Discount_max_amount" : "234",
+            "Discount_creation_date" : "21-04-2020",
+            "Discount_last_date" : "21-04-2020",
+            "Discount_coupon_code" : "bjdsh",
+            "Discount_seller_email" : "ghj@gmail.com",
+            "status": "Y"
+        }
+    }

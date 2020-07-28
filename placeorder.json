@@ -1,0 +1,33 @@
+{
+    "place_order" : {
+        "User_id" : "23",
+        "User_name" : "sfd",
+        "User_email" : "df@gmail.com",
+        "address" : "dfs",
+        "address1" : "fds",
+        "city" : "khj",
+        "state" : "dhs",
+        "pincode" : "jhd",
+        "address_type" : "home",
+        "orderid" : "73867287",
+        "order_date" : "12-02-2020",
+        "order_status" : "pending",
+        "order_time" : "01:04:23pm",
+        "order_transaction_id" : "342323",
+        "order_payment_method" : "cod",
+        "order_total_amount" : "234",
+        "order_total_shipping" : "43",
+        "products" : [
+            {
+                "product_id" : "23",
+                "product_name" : "jhf",
+                "product_seller_email" : "jhf@gmail.com"
+            },
+            {
+                "product_id" : "13",
+                "product_name" : "rehf",
+                "product_seller_email" : "jhf@gmail.com"
+            }
+        ]
+    }
+}

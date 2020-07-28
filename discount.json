@@ -1,0 +1,30 @@
+{
+    "discounts": [
+        {
+            "Discount_id": "365",
+            "Discount_name": "cam",
+            "Discount_desc": "pdf hdjbd dudh",
+            "Discount_percentage" : "23",
+            "Discount_max_amount" : "234",
+            "Discount_creation_date" : "21-04-2020",
+            "Discount_last_date" : "21-04-2020",
+            "Discount_coupon_code" : "bjdsh",
+            "Discount_seller_email" : "ghj@gmail.com",
+            "Discount_seller_name" : "hjd",
+            "status": "Y"
+        },
+        {
+            "Discount_id": "5",
+            "Discount_name": "fcam",
+            "Discount_desc": "pdf hdjbd dudh",
+            "Discount_percentage" : "23",
+            "Discount_max_amount" : "234",
+            "Discount_creation_date" : "21-04-2020",
+            "Discount_last_date" : "21-04-2020",
+            "Discount_coupon_code" : "sdbjdsh",
+            "Discount_seller_email" : "ghj@gmail.com",
+            "Discount_seller_name" : "hjd",
+            "status": "Y"
+        }
+    ]
+    }
